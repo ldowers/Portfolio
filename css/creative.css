@@ -177,8 +177,8 @@ header .header-content .header-content-inner hr {
 }
 header .header-content .header-content-inner p {
   font-weight: 300;
-  color: rgba(255, 255, 255, 0.7);
-  font-size: 16px;
+  color: rgba(34, 34, 34, 0.7);
+  font-size: 20px;
   margin-bottom: 50px;
 }
 @media (min-width: 768px) {
@@ -202,7 +202,7 @@ header .header-content .header-content-inner p {
     font-size: 50px;
   }
   header .header-content .header-content-inner p {
-    font-size: 18px;
+    font-size: 20px;
     max-width: 80%;
     margin-left: auto;
     margin-right: auto;
